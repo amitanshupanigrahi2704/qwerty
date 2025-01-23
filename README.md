@@ -41,4 +41,4 @@ This project showcases the potential of combining the simplicity of the pi-ratin
 ## Contact  
 For further information, reach out via:  
 - **Email**: amitanshu.ap@gmail.com  
-- **GitHub**: (https://github.com/amitanshupanigrahi2704)
+- **GitHub**: https://github.com/amitanshupanigrahi2704
